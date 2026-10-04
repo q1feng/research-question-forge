@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Question Forge (English)"
+  short_description: "Frame research questions through dialogue and evidence"
+  default_prompt: "Use $research-question-forge-en to develop my current research stage from observations, sources, and feedback."

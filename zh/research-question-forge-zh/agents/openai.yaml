@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Question Forge（中文）"
+  short_description: "从现象与想法形成研究问题，通过文献反馈持续打磨研究框架"
+  default_prompt: "使用 $research-question-forge-zh，根据我的观察、资料与反馈推进当前研究阶段。"
