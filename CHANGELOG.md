@@ -1,5 +1,15 @@
 # Changelog
 
+## Unreleased
+
+- Preserve confirmed titles and the latest researcher edits when refining methods; separate working notes from the research argument and carry material revisions through handoffs to prevent scope drift and stale claims.
+- Compare borrowed mechanisms under their actual conditions and check code availability separately from execution and reproduction, so source capabilities do not become unsupported project promises.
+
+### 中文说明
+
+- 方法细化沿用已确认题名和最新人工修改；区分工作记录与研究论述，交接实质变化，避免范围漂移和旧判断残留。
+- 借鉴机制须核对条件与适配，代码公开、运行与复现分别核验，避免把来源能力直接变成课题承诺。
+
 ## v1.0
 
 - Turn observations and early ideas into research questions, feasible directions, and a revisable research framework.
